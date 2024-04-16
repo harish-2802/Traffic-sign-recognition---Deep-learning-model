@@ -1,0 +1,1 @@
+•	Implemented traffic sign recognition utilizing pre- trained models like Inception V3 and YOLO V5 for classification and detection of diverse traffic signs. Validated model accuracy through rigorous testing with varied test images.
